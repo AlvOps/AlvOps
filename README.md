@@ -12,4 +12,4 @@ sells it, which quest starts a chain, full tooltip stats, drop chances and rewar
 - Every answer carries a `source` URL so it can be cited
 - Drop-in for any MCP client, no API keys, MIT licensed
 
-Most of my other work lives in private repositories.
+Everything else lives in the repository list below.
