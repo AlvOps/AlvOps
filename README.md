@@ -21,4 +21,12 @@ sells it, which quest starts a chain, full tooltip stats, drop chances and rewar
 - Every answer carries a `source` URL so it can be cited
 - Drop-in for any MCP client, no API keys, MIT licensed
 
+## hermes-credits-plugin
+
+**[hermes-credits-plugin](https://github.com/AlvOps/hermes-credits-plugin)** — an OpenRouter credits chip and pane for the Hermes desktop app: live balance, quota and budget bars, and a per-conversation call log so you can see what each chat actually costs.
+
+## twitch-folders
+
+**[twitch-folders](https://github.com/AlvOps/twitch-folders)** — a browser extension that sorts the Twitch channels you follow into your own folders, so the sidebar stops being one endless list.
+
 Everything else lives in the repository list below.
