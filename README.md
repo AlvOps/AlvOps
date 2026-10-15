@@ -28,5 +28,6 @@ sells it, which quest starts a chain, full tooltip stats, drop chances and rewar
 ## twitch-folders
 
 **[twitch-folders](https://github.com/AlvOps/twitch-folders)** — a browser extension that sorts the Twitch channels you follow into your own folders, so the sidebar stops being one endless list.
+Featured in : https://addons.mozilla.org/en-US/firefox/addon/twitch-folders/
 
 Everything else lives in the repository list below.
